@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[CASH],
+  const message = `CASH,
 
 Happy Birthday Cash, 
 Wishing you love luck and success.
@@ -21,7 +21,7 @@ Baaki ka message whatsapp pe aaega.
 Hope you read it till the end <3
 Happy Birthday! 🎉
 
-— [PRATHAM]`;
+— PRATHAM`;
 
   // Handle page transitions
   useEffect(() => {
