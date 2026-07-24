@@ -13,9 +13,9 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `CASH,
+  const message = `Shatss,
 
-Happy Birthday Cash, 
+Happy Birthday Shatss, 
 Wishing you love luck and success.
 Baaki ka message whatsapp pe aaega. 
 Hope you read it till the end <3
