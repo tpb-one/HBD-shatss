@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Shatss,
+  const message = `Babla Rawat,
 
 Happy Birthday Shatss, 
 Wishing you love luck and success.
