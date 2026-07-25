@@ -44,7 +44,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
     },
     {
       icon: "✨",
-      text: "Have a look at it, Maharani",
+      text: "Have a look at it, Mote",
       type: "announcement",
     },
   ];
@@ -280,7 +280,7 @@ function CelebrationPage({ onComplete, musicPlayerRef }) {
               animationDuration: `${pos.duration}s`,
             }}
           >
-            💗
+            💗🐄
           </div>
         ))}
       </div>
