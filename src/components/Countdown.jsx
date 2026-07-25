@@ -92,6 +92,15 @@ function Countdown({ onBirthdayReached, birthdayReached }) {
           label="Minutes"
           prevValue={prevTime.minutes}
         />
+        {/*  TEST BUTTON  */}
+<button
+  className="test-button"
+  onClick={onBirthdayReached}
+  title="Skip countdown and see celebration"
+>
+  ��� Test Celebration
+</button>
+{/*  END TEST BUTTON  */}
         <Digit
           value={time.seconds}
           label="Seconds"
