@@ -18,7 +18,7 @@ function MessageCard({ isActive }) {
 Happy Birthday Shatss, 
 Wishing you love luck and success.
 Baaki ka message whatsapp pe aaega. 
-Hope you read it till the end <3
+Love you, Gifts kaise lage?
 Happy Birthday! 🎉
 
 — PRATHAM`;
@@ -166,7 +166,7 @@ Happy Birthday! 🎉
 
   return (
     <section className="message">
-      <h2>💌 A Message For the Queen</h2>
+      <h2>💌 A Message For our Dhol</h2>
 
       <div className="curtain-container">
         <div className="curtain-rod"></div>
