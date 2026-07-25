@@ -170,8 +170,8 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message"> Main kaa laadle meow - Pratham 💖</h2>
-          <p className="final-subtitle">Your personalized closing message ✨</p>
+          <h2 className="final-message"> With love Ghop-Ghop 💖</h2>
+          <p className="final-subtitle">Shawties and Gharwale ✨</p>
         </section>
       </div>
 
