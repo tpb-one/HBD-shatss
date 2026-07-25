@@ -100,12 +100,12 @@ function App() {
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">SHATSS's</span>{" "}
+                Counting down to <span className="highlight">SHATS's</span>{" "}
                 special day 🎂
               </>
             )}
           </h1>
-          <p>You deserve all the love coming your way mote 💗</p>
+          <p>Ek din toh terko acha feel kara sakte hain</p>
         </section>
 
         <Countdown
@@ -117,9 +117,9 @@ function App() {
           <h2 id="teaserHeading">
             {birthdayReached
               ? "💖 Ready for your surprise! 💖"
-              : "✨ A special celebration awaits you at midnight... ✨"}
+              : "✨ 12 baje check tak wait karo... ✨"}
           </h2>
-          <p className="teaser-hint">Something magical is about to unfold 💫</p>
+          <p className="teaser-hint">Crazy hoga kuch 💫</p>
         </section>
 
         <button
