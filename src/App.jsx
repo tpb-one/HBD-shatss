@@ -117,7 +117,7 @@ function App() {
           <h2 id="teaserHeading">
             {birthdayReached
               ? "💖 Ready for your surprise! 💖"
-              : "✨ 12 baje check tak wait karo... ✨"}
+              : "✨ 12 baje tak wait karo... ✨"}
           </h2>
           <p className="teaser-hint">Crazy hoga kuch 💫</p>
         </section>
